@@ -12,4 +12,4 @@
 
   # Handle 404 errors
   ErrorDocument 404 /index.html
-</IfModule>
+</IfModule>   
