@@ -1,0 +1,1 @@
+function f(t,u,n){return t?Math.max(0,(1+t)*u-n):0}function e(t,u,n){return t[n]===null?1:u[n]===null||u[n]<t[n]?-1:u[n]>t[n]?1:0}function r(t,u){return t==="desc"?(n,i)=>e(n,i,u):(n,i)=>-e(n,i,u)}export{f as e,r as g};
